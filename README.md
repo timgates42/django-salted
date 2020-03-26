@@ -14,7 +14,7 @@ command. Some of the great things which are included:
   automagically.
 - *[PostgreSQL]* is installed and setup for you. No more explaining to your
   designer how to get the project running.
-- Some helpfull *[Fabric]* functions, e.g., running `syncdb` on Vagrant.
+- Some helpful *[Fabric]* functions, e.g., running `syncdb` on Vagrant.
 
 **Table of Contents**
 
